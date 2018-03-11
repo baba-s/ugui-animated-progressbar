@@ -14,6 +14,8 @@ https://github.com/baba-s/ugui-animated-progressbar/blob/master/AnimatedProgress
 
 # サンプル
 
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180311/20180311112513.gif)
+
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20180311/20180311110555.gif)
 
 # 使い方
