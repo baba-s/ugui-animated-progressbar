@@ -2,11 +2,11 @@
 
 A progress bar with animation of uGUI.  
 
-# 開発環境
+# Version
 
 - Unity 2017.3.0f3
 
-# 導入方法
+# Install
 
 1. Go to the following page and download "AnimatedProgressbar.unitypackage".  
 https://github.com/baba-s/ugui-animated-progressbar/blob/master/AnimatedProgressbar.unitypackage?raw=true  
