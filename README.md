@@ -1,3 +1,5 @@
+[日本語の Readme はこちら](https://github.com/baba-s/ugui-animated-progressbar/blob/master/README_JP.md)  
+
 # uGUI Animated Progressbar
 
 A progress bar with animation of uGUI.  
